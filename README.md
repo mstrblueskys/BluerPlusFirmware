@@ -2,7 +2,7 @@
 
 These files were taken directly from the TwoTrees website. I went to help someone else find them and they were no longer in the downloads section for the BLU-5 or Bluer Plus.
 
-Note, I downloaded both because the first one did not work with my printer. The first indicator was that my Z axis was inverted. I have no idea how to identify which file you need.
+Note, I downloaded both because the first one did not work with my printer. The first indicator was that my Z axis was inverted. I have no idea how to identify which file you need. If you have an inverted Z axis in the firmware you loaded. Grab the other and flash it.
 
 ## Fixing wonkey Z axis movement
 
